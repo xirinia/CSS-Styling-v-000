@@ -27,3 +27,15 @@ figcaption{
   color: white;
   text-shadow: 0 2px 3px #000;
 }
+
+/* ID selectors (apply to one element per page)  */
+#logo{
+  background-color: aqua;
+}
+/* Descendants Selector */
+#logo h1{
+  font-family: 'Clicker Script', cursive;
+}
+#logo h1{
+  font-family: 'Elsie Swash Caps', cursive;
+}
